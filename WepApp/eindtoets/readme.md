@@ -48,5 +48,8 @@ When testing equality, a lot of languages with syntax similar to JavaScript use 
 
 
 
+Naming Conventions
+Always use the same naming convention for all your code. For example:
 
+Variable and function names written as camelCase
 
